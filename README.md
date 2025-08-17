@@ -1,20 +1,20 @@
-<h1>👋 &nbsp;Olá, sou um Desenvolvedor Full Stack apaixonado!</h1>
+<h1>👋 &nbsp;Olá, sou Valfran Jr. um Desenvolvedor Full Stack em crescimento constante!</h1>
 
 <h2> 👨🏻‍💻 &nbsp;Sobre mim </h2>
 
-Sou engenheiro de software focado em desenvolvimento full stack, apaixonado por criar soluções escaláveis, modernas e bem arquitetadas. Tenho experiência em projetos de grande impacto, utilizando tecnologias como TypeScript, React & React Native, Next.js, Node.js, Docker, AWS, Kafka, Kubernetes, PostgreSQL, microsserviços e muito mais.
+Sou Desenvolvedor Full Stack Júnior em transição de carreira, após uma sólida experiência como Supervisor de Obras, onde atuei na liderança de equipes e na gestão de projetos. Hoje, aplico essa bagagem em organização, prazos e trabalho em equipe no desenvolvimento de soluções digitais práticas, escaláveis e bem estruturadas.
 
-Escrevi minhas primeiras linhas de código aos 11 anos, quando queria criar um servidor privado para um jogo que eu amava na época. Depois de muita pesquisa, finalmente consegui colocá-lo online — e a sensação foi mágica. Percebi que podia personalizar qualquer coisa apenas escrevendo código. Esse momento mudou tudo para mim: eu sabia que queria me tornar desenvolvedor.
+Atualmente, venho me especializando em tecnologias como React, Next.js, TailwindCSS, TypeScript, Node.js e integração com bancos de dados como SQLite, PostgreSQL, Supabase e NeonDB. Também possuo experiência com versionamento no Git/GitHub e padronização de commits utilizando Conventional Commits.
 
-Desde então, continuo profundamente apaixonado por programação e sempre busco aprender mais e evoluir como profissional todos os dias.
+Sou resiliente, proativo e comprometido com entregas de qualidade. Busco minha primeira oportunidade como Desenvolvedor Júnior para aplicar meus conhecimentos em projetos reais, gerar impacto positivo e crescer junto com o time.
 
-<h2> 🎓 &nbsp;Aprendiz e Educador Contínuo </h2>
+<h2> 🎓 &nbsp;Aprendiz em Constante Evolução </h2>
 
-Uma das coisas que mais me motiva é o aprendizado constante e o compartilhamento de conhecimento com outras pessoas. Desde o início da minha jornada, sempre fui fascinado não apenas em resolver problemas complexos com código, mas também em ajudar outros a entenderem e crescerem em suas próprias trajetórias.
+Acredito que o aprendizado contínuo é essencial para a evolução de qualquer desenvolvedor. Por isso, dedico mais de 3 horas por dia a estudos, prática e criação de projetos próprios, com o objetivo de consolidar fundamentos e explorar novas ferramentas. 
 
-Também produzo conteúdo educacional em vídeo e artigos sobre programação, abordando temas como TypeScript, React e Node.js — sempre com foco prático e aplicável ao mundo real. Meu objetivo é tornar o aprendizado acessível e eficiente para todos.
+Minha experiência em gestão me permite unir disciplina, organização e colaboração ao ambiente de tecnologia, sempre buscando soluções bem arquitetadas e com foco em resultado.
 
-Ensinar me ajuda a crescer tanto quanto programar, e busco sempre ser um melhor desenvolvedor, mentor e ser humano.
+Estou disponível para trabalho remoto ou híbrido (Rio de Janeiro), com disponibilidade imediata em regime CLT ou PJ.
 
 <h2> 📚 &nbsp;O que você vai encontrar aqui?</h2>
 
