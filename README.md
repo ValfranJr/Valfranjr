@@ -54,4 +54,4 @@ Este GitHub é mais do que apenas um repositório de código — é um reflexo d
 
 <h2>🚀 &nbsp;Estatísticas do GitHub</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Valfranjr&show_icons=true&theme=dracula)
